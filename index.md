@@ -22,7 +22,6 @@
 	<div class="rain">
 
 	</div>
-	<hr>
 	<ul>
 		<li><a href="#home"><i class="fa fa-home"></i></a></li>
 		<li><a href="#about"><i class="fa fa-book"></i></a></li>
